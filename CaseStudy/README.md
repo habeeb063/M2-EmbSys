@@ -9,7 +9,7 @@
  * The fallowing case study is used to analyze the working of washing machine, its architecture.
 
  ## Block Digram ##
-  
+  ![BLOCK  DIAGRAM](https://github.com/habeeb063/M2-EmbSys/blob/main/CaseStudy/Images/Block%20digaram%20of%20washing%20machine.jpg)
 
  ## Design of Washing Machine
 
