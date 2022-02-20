@@ -1,3 +1,14 @@
-## Case Study ##
+# Case Study #
 
-The fallowing document consist case study of the washing machine.
+## Washing Machine ##
+
+## Introduction ##
+
+* A washing machine is a machine that washes dirty clothes.
+* The fallowing case study is used to analyze the working of washing machine, its architecture.
+
+## Block Digram ##
+
+
+## 
+
