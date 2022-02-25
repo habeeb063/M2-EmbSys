@@ -13,4 +13,4 @@
 
 * Flow Chart of Energy Meter.
 
-![ ](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/2_Architecture/Behavioral%20Diagrams/Flow%20chart%20of%20energy%20meter.jpg)
+![ ](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/2_Architecture/Behavioral%20Diagrams/LOW%20LEVEL2..jpg?raw=true)
