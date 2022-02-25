@@ -1,9 +1,11 @@
 ## LOW LEVEL
 
 
-![LOW LEVEL](https://github.com/habeeb063/M1_Billcalculator_Utilities/blob/master/2_Architecture/Structural%20Diagram/Low%20level%20structure%20diagram.jpg?raw=true)
+![LOW LEVEL](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/2_Architecture/Behavioral%20Diagrams/Flow%20Chart%20of%20Complete%20System.jpg)
 
 
 ## HIGH LEVEL
 
-![HIGH LEVEL](https://github.com/habeeb063/M1_Billcalculator_Utilities/blob/master/2_Architecture/Structural%20Diagram/High%20level%20structural%20diagram.jpg?raw=true)
+![HIGH LEVEL](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/2_Architecture/Behavioral%20Diagrams/Flow%20Chart%20oF%20lock%20System.jpg)
+
+ (https://github.com/habeeb063/M2-EmbSys/blob/main/Project/2_Architecture/Behavioral%20Diagrams/Flow%20chart%20of%20energy%20meter.jpg)
