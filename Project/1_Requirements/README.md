@@ -119,9 +119,7 @@
  **Threats:** Multiple projects are available on the same field. 
 
 
- 
-
-**HIGH Level Requirements:**
+ ## HIGH Level Requirements:
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
@@ -133,8 +131,7 @@
 |`    `HL06|` `The user can monitor its energy consumption and the bill amount in ‘io.adafruit’ website.| Yet to be Implemented |
 |`    `HL07|` `The user gets automatic update of electric bill via mail if threshold value is reached.| Yet to be Implemented |
 
-
-**LOW Level Requirements:**
+## LOW Level Requirements:
 
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
@@ -142,10 +139,10 @@
 |LL01\_HL01|` `The user has to press the password in 4x3 keypad.| Implemented |
 |LL02\_HL02|` `The user has to press ‘#’ to reset the password.|Implemented |
 |LL03\_HL02|` `The user has to enter the current password to reset the password.|Implemented |
-|LL04\_HL03|` `If the user is around 200cm of the ultra-sonic sensor, the door gets open.|Implemented |
-|LL05\_Hl04|` `The Blink app can be configured for different rooms to operate the different appliances.| Implemented |
-|LL06\_Hl06|` `The adafruit website has two different gauge one to monitor energy consumption and other to monitor bill.| Implemented |
-|LL07\_Hl07|` `The email can be send using IFTTT (if this then that) feature of ‘io.adafruit’ website  which generates the email if threshold value is reached.| Implemented |
+|LL04\_HL03|` `If the user is around 200cm of the ultra-sonic sensor, the door gets open.|Yet to be Implemented |
+|LL05\_Hl04|` `The Blink app can be configured for different rooms to operate the different appliances.|Yet to be Implemented |
+|LL06\_Hl06|` `The adafruit website has two different gauge one to monitor energy consumption and other to monitor bill.|Yet to be Implemented |
+|LL07\_Hl07|` `The email can be send using IFTTT (if this then that) feature of ‘io.adafruit’ website  which generates the email if threshold value is reached.| Yet to be Implemented |
 
 
 
