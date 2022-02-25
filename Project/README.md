@@ -8,8 +8,8 @@
  * In this project the idea of home automation is demonstrated with the energy meter, which calculates the bill amount and send it to user via mail, if threshold value is reached.
  * The user can control the appliances with the blink application anywhere around the world.
 
- 
 
+**Block Diagram**
 
 ![ BLOCK DIGRAM](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Block%20Diagram.jpg?raw=true)
 
