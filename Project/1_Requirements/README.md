@@ -97,13 +97,13 @@
 
 ## 4’W and 1’H:
 
- **What:**It is an automated appliances control and calculation of energy bill.
+ **What:** It is an automated appliances control and calculation of energy bill.
 
- **Where:**Can be used in home, school, Industries.
+ **Where:** Can be used in home, school, Industries.
 
- **When:**It is a home automation system with energy bill calculator.
+ **When:** It is a home automation system with energy bill calculator.
 
- **Why:**Most of the Modern houses needs automation to reduce time, effort, manual and errors.
+ **Why:** Most of the Modern houses needs automation to reduce time, effort, manual and errors.
 
  **How:** It is done using Atmega Microcontroller and ESP8266 module. 
 
