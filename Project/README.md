@@ -2,14 +2,14 @@
 
 ## HOME AUTOMATION BASED ENERGY METER
 
- **Abstract** 
+ **Abstract:** 
 
 * Automation is an important technology in today's environment.
 *  An automation system is a collection of sensors, controllers, and actuators that work together to complete a task with little or no human intervention.
 *  In this project the idea of home automation is demonstrated with the energy meter, which calculates the bill amount and send it to user via mail, if threshold value is reached.
 *  The user can control the appliances with the blink application anywhere around the world.
 
-**Block Diagram**
+**Block Diagram:**
 
 ![ BLOCK DIGRAM](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Block%20Diagram.jpg?raw=true)
 
