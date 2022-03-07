@@ -12,6 +12,14 @@
 * If the bill amount is reached threshold the auto generated mail is recevied by the user.
 * Based on that the uses can monitor, analyze and control the appliances.
 
-## LOW LEVEL
+## CIRCUIT
 
-![LOW LEVEL](https://github.com/habeeb063/M1_Billcalculator_Utilities/blob/master/2_Architecture/behavourial%20diagrams/High%20level%20diagram.jpg?raw=true)
+![CIRCUIT](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/complete%20circuit.jpg)
+
+## ADAFRUIT GRAPH
+
+![CIRCUIT](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Adafruit%20graph.jpg)
+
+## IFTTT 
+
+![CIRCUIT](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/IFTTT.jpg)
