@@ -2,10 +2,13 @@
 #include<LiquidCrystal.h> // LIBRARY FOR LCD INTERFACING
 #include<Servo.h>// LIBRARY FOR SERVO MOTOR
 #include<EEPROM.h>
-#define buzzer 11 // DEFINING PIN FOR BUZZER.
-#define redPin = 9; // DEFINING PIN FOR RED LED
-#define greenPin = 8; // DEFINING PIN FOR GREEN LED
-#define ledpin = 12;// DEFINING PIN FOR OUTDOOR LIGHT.
+
+
+
+# define buzzer  11// DEFINING PIN FOR BUZZER
+# define redPin  9// DEFINING PIN FOR RED LED
+# define greenPin 8 // DEFINING PIN FOR GREEN LED
+# define ledpin  12// DEFINING PIN FOR OUTDOOR LIGHT
 
 LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);// PINS FOR LCD
 
@@ -24,7 +27,6 @@ char initial_password[3],new_password[3]; //VARIABLES FOR PASSWORD.
 int position = 0; // VARIABLE FOR DETERMINING THE POSITION.
 
 int wrong = 0; // VARIABLE FOR CALCULATING THE WRONG INPUT.
-
  
 Keypad keypad=Keypad(makeKeymap(keys),rowPin,colPin,4,3);// MAPPING THE KEYPAD.
 
@@ -166,9 +168,8 @@ void setLocked(int locked)// FUNCTION TO CHANGE STATUS OF SERVO MOTOR.
 void buzzer_beep()// FUNCTION TO BEEP THE BUZZER.
 {
  analogWrite(buzzer, 200);     
-                           
-  delay(1000);          
- 
+ delay(1000);          
+  
    while(1)
    {
    lcd.scrollDisplayLeft();
