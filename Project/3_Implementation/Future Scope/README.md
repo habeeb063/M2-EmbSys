@@ -22,4 +22,4 @@
 
 ## IFTTT 
 
-![CIRCUIT](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/IFTTT.jpg)
+![CIRCUIT](https://github.com/habeeb063/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/IFTTT.jpg?raw=true)
