@@ -39,7 +39,8 @@
 
 
  ## HIGH Level Requirements for Future Scope:
- 
+ |`      `**ID**|`                 `**Description**|`            `**Status**|
+| :- | :- | :- |
 |`    `HL01|` `The Blink App is used to control the appliances wirelessly.| Implemented in Future Scope |
 |`    `HL02|` `Electricity Bill is calculated based on units consumed.| Implemented in Future Scope |
 |`    `HL03|` `The user shall monitor its energy consumption and the bill amount in ‘io.adafruit’ website.| Implemented in Future Scope |
@@ -58,14 +59,15 @@
 |LL06\_HL03|` `The LED green indicated the door is open.|Implemented |
 |LL07\_HL03|` `The LED red indicated the door is locked.|Implemented |
 |LL08\_HL04|` `The Buzzer gets activated after 3 unsuccessful attempts.|Implemented |
-|LL09\_HL04|` `The Buzzer gets activated after 3 unsuccessful attempts.|Implemented |
+|LL09\_HL04|` `The Outdoor Light is controlled by LDR sensor.|Implemented |
 
 
  ## LOW Level Requirements for Future Scope:
-
-|LL01\_HL01|` `The Blink app can be configured for different rooms to operate the different appliances.| Implemented in Future Scope  |
-|LL02\_HL03|` `The adafruit website has two different gauge one to monitor energy consumption and other to monitor bill.| Implemented in Future Scope  |
-|LL03\_HL04|` `The email should be send using IFTTT (if this then that) feature of ‘io.adafruit’ website  which generates the email if threshold value is reached.|  Implemented in Future Scope  |
+|`      `**ID**|`                 `**Description**|`            `**Status**|
+| :- | :- | :- |
+|LL01\_HL01|` `The Blink app can be configured for different rooms to operate the different appliances | Implemented in Future Scope |
+|LL02\_HL03|` `The adafruit website has two different gauge one to monitor energy consumption and other to monitor bill | Implemented in Future Scope  |
+|LL03\_HL04|` `The email should be send using IFTTT (if this then that) feature of ‘io.adafruit’ website  which generates the email if threshold value is reached |  Implemented in Future Scope  |
 
 
 
